@@ -90,5 +90,5 @@ p {
     text-decoration: none;
     color: coral;
     font-size: 1.5rem;
-    margin-top: 3vh;
+    margin: 3vh auto;
 }
